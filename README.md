@@ -4,6 +4,8 @@ A simple shell script to automate the installation of **MikroTik Cloud Hosted Ro
 This script helps you deploy CHR quickly and efficiently from the command line without manual configuration.
 
 ---
+#### Video Tutorial
+https://www.youtube.com/watch?v=hpyqLeu0W0o
 
 ## 📦 Repository Contents
 
@@ -43,7 +45,6 @@ cd CHR-Proxmox
 chmod +x chr-install.sh
 ./chr-install.sh
 ```
-
 ## 📄 License
 
 This project is licensed under the MIT License.
